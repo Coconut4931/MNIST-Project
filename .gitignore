@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#Le dossier data qui vient du débogage d'un notebook je crois ou bien du package quand on veut mettre un image
+data/
